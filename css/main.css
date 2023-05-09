@@ -1,10 +1,11 @@
 /* Global rules */
 
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
 html {
     background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Oswald';
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -43,7 +44,7 @@ a {
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: rgb(3, 3, 3);
     text-decoration: none;
 }
 
